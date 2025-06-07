@@ -1,37 +1,17 @@
 <h1 align="center">Hi 👋, I'm Omkar Sankpal</h1>
----
+<h3 align="center">Student • Developer</h3>
 
-## 🧠 About Me
+- 🔭 I’m currently working on [Hack Of Clans](https://hack-of-clans-frontend.onrender.com)
 
-- 🎓 Pre final year IT student at **PICT**
-- 🔧 Building cool tools for students, like **Lably** and **Hack of Clans**
-- 🌐 Backend enthusiast – Node.js, Express, Supabase, MongoDB, MySQL
-- 📦 Deploying full-stack apps on **Render**, **Railway**, and **Supabase**
+- 🌱 I’m currently learning **ALML using PyTorch**
 
----
+- 🚀 Finished Working on [Lably](https://lably-fronend.onrender.com)
 
-## 🛠️ Projects
+- 🤝 First project [Advanced Authentication](https://advanced-authentication-1-2dpd.onrender.com)
 
-| Name | Description | Stack |
-|------|-------------|-------|
-| [**Hack of Clans**](https://hack-of-clans-frontend.onrender.com) | A platform to manage hackathon teams, chats, and collaboration | React, Zustand, Node.js, MongoDB, Socket.io |
-| [**Lably**](https://lably-fronend.onrender.com) | Lab management system for students and teachers | Node.js, MySQL/PostgreSQL, Express, Supabase |
-| [**Advanced Auth**](https://advanced-authentication-1-2dpd.onrender.com) | A Demonstration of authentication | Node.js, React, NodeMailer |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 🧰 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-
----
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
