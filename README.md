@@ -1,17 +1,39 @@
 <h1 align="center">Hi 👋, I'm Omkar Sankpal</h1>
-<h3 align="center">Student • Developer</h3>
+<h3 align="center">🚀 Backend Developer | 🧠 AIML Learner | 🎯 Hackathon Enthusiast</h3>
 
-- 🔭 I’m currently working on [Hack Of Clans](https://hack-of-clans-frontend.onrender.com)
-
-- 🌱 I’m currently learning **ALML using PyTorch**
-
-- 🚀 Finished Working on [Lably](https://lably-fronend.onrender.com)
-
-- 🤝 First project [Advanced Authentication](https://advanced-authentication-1-2dpd.onrender.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&width=435&lines=Full-Stack+Developer;Backend+focused+with+MySQL%2C+Supabase%2C+Node.js;Web+Scraping+%7C+AI%2FML+Learning+Path;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+
+- 🎓 Pre final year IT student  
+- 🔧 Building cool tools for students, like **Lably** and **Hack of Clans**
+- 🌐 Backend enthusiast – Node.js, Express, Supabase, MongoDB, MySQL
+- 📦 Deploying full-stack apps on **Render**, **Railway**, and **Supabase**
+
+---
+
+## 🛠️ Projects
+
+| Name | Description | Stack |
+|------|-------------|-------|
+| [**Hack of Clans**](https://hack-of-clans-frontend.onrender.com) | A platform to manage hackathon teams, chats, and collaboration | React, Zustand, Node.js, MongoDB, Socket.io |
+| [**Lably**](https://github.com/OmkarSankpal/Lably) | Lab management system for students and teachers | Node.js, MySQL/PostgreSQL, Express, Supabase |
+| [**Advanced Auth**](https://advanced-authentication-1-2dpd.onrender.com/) | Demonstration  | Node.js, React, Nodemailer |
+---
+
+## 🧰 Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
