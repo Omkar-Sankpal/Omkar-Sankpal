@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omkar Sankpal</h1>
-<h3 align="center">🚀 Backend Developer | 🧠 AIML Learner | 🎯 Hackathon Enthusiast</h3>
+<h3 align="center">🧑‍🎓 Student | 💻 WebDev | 🎯 3D | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&width=435&lines=Full-Stack+Developer;Backend+focused+with+MySQL%2C+Supabase%2C+Node.js;Web+Scraping+%7C+AI%2FML+Learning+Path;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&width=435&lines=Student+Developer;3D+Art;Web+Scraping+%7C+AI%2FML+Learning+Path;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
