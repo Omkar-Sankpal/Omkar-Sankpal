@@ -18,11 +18,11 @@
 
 ## 🛠️ Projects
 
-| Name | Description | Stack |
-|------|-------------|-------|
-| [**Hack of Clans**](https://github.com/Omkar-Sankpal/Hack_Of_Clans_Frontend?tab=readme-ov-file#%EF%B8%8F-hack-of-clans---frontend) | A platform to manage hackathon teams, chats, and collaboration | React, Zustand, Node.js, MongoDB, Socket.io |
-| [**Lably**](https://github.com/Omkar-Sankpal/Lably-Fronend?tab=readme-ov-file#lably--frontend) | Lab management system for students and teachers | Node.js, MySQL/PostgreSQL, Express, Supabase |
-| [**Advanced Auth**](https://advanced-authentication-1-2dpd.onrender.com) | Demonstration  | Node.js, React, Nodemailer |
+| Name | Description | Stack | Live links |
+|------|-------------|-------|-----|
+| [**Hack of Clans**](https://github.com/Omkar-Sankpal/Hack_Of_Clans_Frontend?tab=readme-ov-file#%EF%B8%8F-hack-of-clans---frontend) | A platform to manage hackathon teams, chats, and collaboration | React, Zustand, Node.js, MongoDB, Socket.io | [**HOC**](https://hack-of-clans-frontend.onrender.com) |
+| [**Lably**](https://github.com/Omkar-Sankpal/Lably-Fronend?tab=readme-ov-file#lably--frontend) | Lab management system for students and teachers | Node.js, MySQL/PostgreSQL, Express, Supabase | [**Lably**](https://lably-fronend.onrender.com) |
+| [**Advanced Auth**](https://github.com/Omkar-Sankpal/Advanced-Authentication?tab=readme-ov-file#closed_lock_with_key-advanced-authentication-system) | Demonstration  | Node.js, React, Nodemailer | [**Adv Auth**](https://advanced-authentication-1-2dpd.onrender.com) |
 ---
 
 ## 🧰 Tech Stack
