@@ -21,8 +21,8 @@
 | Name | Description | Stack |
 |------|-------------|-------|
 | [**Hack of Clans**](https://hack-of-clans-frontend.onrender.com) | A platform to manage hackathon teams, chats, and collaboration | React, Zustand, Node.js, MongoDB, Socket.io |
-| [**Lably**](https://github.com/OmkarSankpal/Lably) | Lab management system for students and teachers | Node.js, MySQL/PostgreSQL, Express, Supabase |
-| [**Advanced Auth**](https://advanced-authentication-1-2dpd.onrender.com/) | Demonstration  | Node.js, React, Nodemailer |
+| [**Lably**](https://lably-fronend.onrender.com) | Lab management system for students and teachers | Node.js, MySQL/PostgreSQL, Express, Supabase |
+| [**Advanced Auth**](https://advanced-authentication-1-2dpd.onrender.com) | Demonstration  | Node.js, React, Nodemailer |
 ---
 
 ## 🧰 Tech Stack
