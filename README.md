@@ -2,7 +2,7 @@
 <h3 align="center">🧑‍🎓 Student | 💻 WebDev | 🎯 3D | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&width=435&lines=Student+Developer;3D+Art;UI%2FUX; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&width=435&lines=Student+Developer;3D+Art;UI%2FUX"
 </p>
 
 ---
